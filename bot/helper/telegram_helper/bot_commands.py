@@ -24,8 +24,6 @@ class _BotCommands:
         self.WatchCommand = 'watch2'
         self.TarWatchCommand = 'tarwatch2'
         self.DeleteCommand = 'del2'
-        self.UsageCommand = 'usage2'
-        self.MediaInfoCommand = 'mediainfo2'
         self.ConfigMenuCommand = 'config2'
         self.ShellCommand = 'shell2'
         self.UpdateCommand = 'update2'
