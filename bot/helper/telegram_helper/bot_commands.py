@@ -28,7 +28,7 @@ class _BotCommands:
         self.MediaInfoCommand = 'mediainfo2'
         self.ConfigMenuCommand = 'config2'
         self.ShellCommand = 'shell2'
-        self.UpdateCommand = 'update'
+        self.UpdateCommand = 'update2'
         self.ExecHelpCommand = 'exechelp2'
         self.TsHelpCommand = 'tshelp2'
 
